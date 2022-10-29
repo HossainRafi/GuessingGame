@@ -20,7 +20,7 @@ body{
 .box, .prompt_box{
     width: 500px;
     height: 400px;
-    background: rgba(94, 67, 171, 0.839);
+    background: rgb(95, 67, 171);
     flex-direction: column;
 }
 .box h1{
@@ -49,7 +49,7 @@ form input{
     border-bottom: 1px solid #00000073;
 }
 .btn{
-    width: 100px;
+    width: 120px;
     height: 30px;
     font-size: 1.1rem;
     outline: none;
