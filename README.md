@@ -1,2 +1,2 @@
 # GuessingGame
-Basic Number Guessing Game Project Created By JavaScript
+Basic Number Guessing Game Project Created By JavaScript, HTML & CSS
